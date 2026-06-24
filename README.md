@@ -63,7 +63,8 @@ app offers it, or delete the generated imgui.ini file next to the executable.
 
 Note: This build adds a conservative safe-mode patch for Call Hunters performance stalls.
 
-Credits: 
+## <B>Credits: </B>
+
 SarahRoseLives
 Sarah Rose  · she/her AD8NT
 Linux fan girl with a habit of making systems behave in ways they were never meant to.
