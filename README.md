@@ -1,4 +1,5 @@
 InmarScope Windows Builder Cyberpunk UI + Layout Fix
+This downloads / clones the files created by Sarah in her repository
 ==================================================
 
 1. Install MSYS2 if it is not already installed:
@@ -11,6 +12,7 @@ InmarScope Windows Builder Cyberpunk UI + Layout Fix
 
 4. When successful, run:
    release\Run_InmarScope.bat
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/e835ce66-9331-4a0c-84f4-723287b5b8f6" />
 
 What changed
 ---------------
