@@ -73,4 +73,4 @@ Repo:
 https://github.com/sarahroselives/inmarscope
 
 Forum posts:
-https://forums.radioreference.com/threads/inmarscope-multi-channel-inmarsat-decoder-for-windows.501470/#post-4303213
+https://forums.radioreference.com/threads/inmarscope-multi-channel-inmarsat-decoder-for-windows.501470
